@@ -34,7 +34,7 @@ p {
 	transition: all 0.5s;
 }
 .primary-button a:hover {
-	background-color: #5c9d7d;
+	background-color: #020b1a;
 }
 .white-button a {
 	display: inline-block;
@@ -406,7 +406,7 @@ ul.cd-hero-slider {
 }
 
 .filter-categories ul li.active span {
-  color: #a2cf8d;
+  color: #020b1a;
 }
 
 .project-item {
@@ -426,7 +426,7 @@ ul.cd-hero-slider {
 
 .project-item .hover-effect {
 	position: absolute;
-	background-color: rgba(162, 207, 141, 0.95);
+	background-color: hsl(218deg 86% 5% / 85%);
 	width: 100%;
 	top: 0;
 	bottom: 0;
@@ -443,13 +443,13 @@ ul.cd-hero-slider {
 	height: 46px;
 	background-color: #fff;
 	line-height: 46px;
-	color: #a2cf8d;
+	color: #020b1a;
 	border-radius: 50%;
 	font-size: 18px;
 }
 
 .project-item .hover-effect i:hover {
-	background-color: #5c9d7d;
+	background-color: #020b1a;
 	color: #fff;
 	transition: all 0.5s;
 }
@@ -547,11 +547,11 @@ ul.cd-hero-slider {
 	line-height: 44px;
 	color: #fff;
 	text-align: center;
-	background-color: #a2cf8d;
+	background-color: #020b1a;
 }
 
 .pop span:hover, .pop2 span:hover, .pop3 span:hover {
-	background-color: #5c9d7d;
+	background-color: #020b1a;
 	transition: all 0.5s;
 }
 
@@ -584,7 +584,7 @@ ul.cd-hero-slider {
 .fact-item .counter {
 	font-size: 24px;
 	font-weight: 700;
-	color: #a2cf8d;
+	color: #020b1a;
 }
 
 .fact-item span {
@@ -596,7 +596,44 @@ ul.cd-hero-slider {
 	color: #7a7a7a;
 }
 
+/* GEAR */
 
+#gear .section-heading h4 {
+	color: #040c1a;
+}
+
+#gear .section-heading .line-dec {
+	background-color: #020b1a;
+	margin-bottom: 60px;
+}
+
+#gear {
+	padding: 100px 0px;
+	background-color: #f1f1f1;
+}
+
+#gear .fact-item {
+	background-color: #040c1a;
+	padding: 30px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+.fact-item .counter {
+	font-size: 24px;
+	font-weight: 700;
+	color: #020b1a;
+}
+
+.fact-item span {
+	display: inline-block;
+	margin-top: 10px;
+	font-style: 13px;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+	color: #7a7a7a;
+}
 
 /* CONTACT US */
 
@@ -660,7 +697,7 @@ ul.cd-hero-slider {
 
 #contact button {
 	display: inline-block;
-	background-color: #a2cf8d;
+	background-color: #020b1a;
 	padding: 12px 18px;
 	color: #fff;
 	font-size: 11px;
@@ -673,7 +710,7 @@ ul.cd-hero-slider {
 
 #contact button:hover {
 	color: #fff;
-	background-color: #5c9d7d;
+	background-color: #020b1a;
 	transition: all 0.3s;
 }
 
@@ -715,14 +752,14 @@ footer ul li a {
 	line-height: 36px;
 	text-align: center;
 	display: inline-block;
-	background-color: #a2cf8d;
-	color: #202628;
+	background-color: #020b1a;
+	color: #ffffff;
 	border-radius: 50%;
 }
 
 footer ul li a:hover {
-	color: #202628;
-	background-color: #5c9d7d;
+	color: #ffffff;
+	background-color: #142542;
 	transition: all 0.5s;
 }
 
